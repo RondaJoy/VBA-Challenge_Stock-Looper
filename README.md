@@ -9,6 +9,8 @@ Greatest % increase
 Greatest % decrease
 Greatest total volume
 
+Run Time: 30 minutes
+
 Contents of repository include:
 1 x  .vba file
 3 x jpeg images of output
