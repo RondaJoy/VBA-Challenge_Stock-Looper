@@ -19,6 +19,7 @@ Run Time: ~30 minutes
 --------------
 #### Contents of Repository:
 - 1 x VBA script file (MasterSub_VBA Looper.vbs)
+- 1 x data source (Multiple_year_stock_data.xlsx)
 - 3 x .jpeg capture of output (2018_1.jpg, 2019_1.jpg, 2020_1.jpg)
 - 1 x README file
 
