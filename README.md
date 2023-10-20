@@ -4,12 +4,9 @@
 
 ---------------
 #### Purpose:
-The purpose of this project is to create a VBA script that loops through all worksheets in the Excel workbook and outputs the following information:
+The purpose of this project is to create a VBA script that loops through all [3] worksheets in the Excel workbook (2018, 2019, 2020) to determine the total stock volume, % increase/decrease AND stock volume delta for each stock ticker. The following information is printed as the output on each tab:
 
 - Ticker symbol
-- Yearly change from the opening price at the beginning of a given year to the closing price at the end of that year.
-- % change from the opening price at the beginning of a given year to the closing price at the end of that year.
-- Total stock volume per ticker.
 - Greatest % increase
 - Greatest % decrease
 - Greatest total volume
