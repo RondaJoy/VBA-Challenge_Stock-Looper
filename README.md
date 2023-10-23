@@ -1,6 +1,6 @@
 
 **UCB Data Analysis Module 2**
-# VBA Challenge: Stock Looper
+## VBA Challenge: Stock Looper
 
 ---------------
 #### Purpose:
@@ -11,7 +11,10 @@ The purpose of this project is to create a VBA script that loops through all [3]
 - Greatest % decrease
 - Greatest total volume
 
-Run Time: ~20 minutes
+Run Time: ~20 minutes  
+
+(sample macro - summarize ticker data)  
+![process intro](markdown_images/macro_setup.PNG)
 
 --------------
 #### Contents of Repository:
